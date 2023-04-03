@@ -39,6 +39,7 @@ nav a {
     border-radius: 30px;
     text-align: center;
     width: 10em;
+    color: black;
 }
 nav a:visited {
     color: black;
